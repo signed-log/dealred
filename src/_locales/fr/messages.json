@@ -1,0 +1,10 @@
+{
+  "extensionName": {
+    "message": "Dealred",
+    "description": "Nom de l'extension"
+  },
+  "extensionDescription": {
+    "message": "Evite le tracker Dealabs (bloqué par beaucoup d'adblockers) et redirige immédiatement vers la page du deal",
+    "description": "Description de l'extension"
+  }
+}

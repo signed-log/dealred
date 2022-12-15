@@ -1,0 +1,6 @@
+web-ext-artifacts
+node_modules
+.vscode/settings.json
+*.zip
+*.xpi
+*.crx
